@@ -18,7 +18,7 @@ void main() {
 }
 
 class DicePage extends StatefulWidget {
-  const DicePage({Key key}) : super(key: key);
+  const DicePage({key}) : super(key: key);
 
   @override
   State<DicePage> createState() => _DicePageState();
