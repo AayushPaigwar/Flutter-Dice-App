@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'dart:math';
-
+//Expanded, flex, image.assests 
 void main() {
   return runApp(
     MaterialApp(
